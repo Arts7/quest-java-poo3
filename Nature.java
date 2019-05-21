@@ -15,10 +15,10 @@ public class Nature {
         // TODO : décommente le code suivant afin de le tester
 
         eyeCherry.takeOff();
-        eyeCherry.ascend(1);
-        eyeCherry.ascend(5);
+        eyeCherry.ascend(120);
+        eyeCherry.ascend(30);
         eyeCherry.glide();
-        eyeCherry.descend(5);
+        eyeCherry.descend(140);
         eyeCherry.land();
         eyeCherry.descend(9);
         eyeCherry.land();
